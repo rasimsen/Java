@@ -9,8 +9,8 @@
 			value="com.mysql.jdbc.Driver" />
 		<property name="url"
 			value="jdbc:mysql://mysql.oasissofttech.com:3306/rs_testsil" />
-		<property name="username" value="oasissoft" />
-		<property name="password" value="JiKcEPY6!" />
+		<property name="username" value="username" />
+		<property name="password" value="passwd" />
 	</bean>
 
 
