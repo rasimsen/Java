@@ -1,0 +1,3 @@
+interface Bird {
+    Egg lay();
+}
