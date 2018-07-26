@@ -15,4 +15,8 @@ public class FizzBuzzController {
 	public String fizzBuzz(@PathVariable("inputVal") int i) {
 		return service.convert(i);
 	}
+	@RequestMapping("/fizzbuzzall")
+	public String fizzBuzz() {
+		return "";//todo
+	}
 }
